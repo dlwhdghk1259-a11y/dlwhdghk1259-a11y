@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2025/08/24/09/55/man-9793571_1280.png" width="800px">
+  <img src="https://cdn.pixabay.com/photo/2025/08/24/09/55/man-9793571_1280.png" width="450px">
 </p>
 
 <h1 align="center">안녕하세요, 이종화입니다! 👋</h1>
