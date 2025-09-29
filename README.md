@@ -2,9 +2,7 @@
   <img src="https://cdn.pixabay.com/photo/2025/08/24/09/55/man-9793571_1280.png" width="450px">
 </p>
 
-<h1 align="center">안녕하세요, 이종화입니다! 👋</h1>
-<p align="center">코딩의 세계를 탐험 중인 예비 개발자입니다.</p>
-
+<h2 align="center">안녕하세요, 이종화입니다! 👋</h2>
 <br/>
 
 - 🌱 저는 현재 **파이썬 및 웹개발, 데이터베이스**에 큰 관심을 가지고 있습니다.
