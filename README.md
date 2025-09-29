@@ -1,8 +1,8 @@
-##Introduction
+## Introduction
 안녕하세요.
 아직 공부중인 학생입니다.
 반갑습니다.
 
-##Career
+## Career
 영남대학교 컴퓨터학부 소프트웨어융합전공 학부생
 
